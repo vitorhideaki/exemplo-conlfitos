@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+rock funk e sertanojo e burp e inteligente
+=======
 rock funk e sertanojo e inteligente
+>>>>>>> c4505118266bdb3541cf3c490e9d9afce6b5edc9
